@@ -3,6 +3,7 @@
 **I'm Shankar Hariharan**, 
 Electronics undergrad with interest in the field of Computer Vision, Mixed reality and Data Science
 
+🔽🔽🔽 **Let us connect** 🔽🔽🔽
 <br> <br>
  <a href="https://twitter.com/ShankarHaran3">
   <img align="left" alt="shankar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,6 +19,9 @@ Electronics undergrad with interest in the field of Computer Vision, Mixed reali
 </a>
 <a href="devshank3@gmail.com">
   <img align="left" alt="shankar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="devshank3@gmail.com">
+  <img align="left" alt="shankar's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <br><br>
 
