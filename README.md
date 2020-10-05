@@ -3,7 +3,7 @@
 **I'm Shankar Hariharan**, 
 Electronics undergrad with interest in the field of Computer Vision, Mixed reality and Data Science
 
-🔽🔽🔽🔽 **Let us connect** 🔽🔽🔽🔽
+ **Connect with me @** 
 <br> <br>
  <a href="https://twitter.com/ShankarHaran3">
   <img align="left" alt="shankar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,7 +25,7 @@ Electronics undergrad with interest in the field of Computer Vision, Mixed reali
 </a>
 <br><br>
 
-Currently working on
+**Currently working on**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devshank3&repo=JetScan&show_icons=true&hide_border=true&theme=nord)](https://github.com/devshank3/JetScan)![](https://raw.githubusercontent.com/devshank3/devshank3/main/src_dat/jetscan1.jpg "JetScan")
 
