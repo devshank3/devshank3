@@ -3,7 +3,7 @@
 **I'm Shankar Hariharan**, 
 Electronics undergrad with interest in the field of Computer Vision, Mixed reality and Data Science
 
-🔽🔽🔽 **Let us connect** 🔽🔽🔽
+🔽🔽🔽🔽 **Let us connect** 🔽🔽🔽🔽
 <br> <br>
  <a href="https://twitter.com/ShankarHaran3">
   <img align="left" alt="shankar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
