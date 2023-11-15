@@ -17,10 +17,10 @@ Electronics undergrad with interest in the field of Computer Vision, Mixed reali
 <a href="https://www.reddit.com/user/shankharan">
   <img align="left" alt="shankar's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="devshank3@gmail.com">
+<a href="">
   <img align="left" alt="shankar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="devshank3@gmail.com">
+<a href="">
   <img align="left" alt="shankar's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <br><br>
