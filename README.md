@@ -1,7 +1,8 @@
-**Hallo 👋**
+<h1 align='center'>
+  Hi ! :wave: I'm Shankar
+</h1>
 
-**I'm Shankar Hariharan**, 
-Electronics undergrad with interest in the field of Computer Vision, Mixed reality and Data Science
+I'm a Software Engineer at [Siemens Healthineers MR Exam](https://www.siemens-healthineers.com/en-in/magnetic-resonance-imaging/technologies-and-innovations/my-exam-companion)
 
  **Connect with me @** 
 <br> <br>
@@ -14,18 +15,8 @@ Electronics undergrad with interest in the field of Computer Vision, Mixed reali
 <a href="https://github.com/devshank3">
   <img align="left" alt="shankar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.reddit.com/user/shankharan">
-  <img align="left" alt="shankar's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="">
-  <img align="left" alt="shankar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="">
-  <img align="left" alt="shankar's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <br><br>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devshank3&show_icons=true&hide_border=true&theme=chartreuse-dark)
-
-
+<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devshank3&layout=compact&theme=github_dark)
