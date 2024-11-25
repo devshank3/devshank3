@@ -2,9 +2,9 @@
   Hi ! :wave: I'm Shankar
 </h1>
 
-I'm a Software Engineer at [Siemens Healthineers MR Exam](https://www.siemens-healthineers.com/en-in/magnetic-resonance-imaging/technologies-and-innovations/my-exam-companion)
+I'm a Software Engineer at [Siemens Healthineers - MR myExam Suite](https://www.siemens-healthineers.com/en-in/magnetic-resonance-imaging/technologies-and-innovations/my-exam-companion)
 
- **Connect with me @** 
+ **Connect with me** 
 <br> <br>
  <a href="https://twitter.com/ShankarHaran3">
   <img align="left" alt="shankar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
