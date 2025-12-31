@@ -12,6 +12,7 @@ I'm a Software Engineer at [Siemens Healthineers - MR myExam Suite](https://www.
 Currently focussing on 
 
 - .NET (C#)
+- React
 - ASP.NET Core
 - Azure
 - Python
