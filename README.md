@@ -4,19 +4,18 @@
 
 I'm a Software Engineer at [Siemens Healthineers - MR myExam Suite](https://www.siemens-healthineers.com/en-in/magnetic-resonance-imaging/technologies-and-innovations/my-exam-companion)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devshank3&show_icons=true&hide_border=true&theme=chartreuse-dark)
-<br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devshank3&layout=compact&theme=github_dark)
+<p align="center">
+  <!-- Social/fallback badges -->
+  <img src="https://img.shields.io/github/followers/devshank3?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/repo-size/devshank3/devshank3?label=Repo%20size&style=flat-square" alt="Repo size" />
+  <img src="https://img.shields.io/github/stars/devshank3?label=Stars&style=flat-square" alt="Stars" />
+</p>
 
+<p align="center">
+  <!-- GitHub Readme Stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devshank3&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+</p>
 
-Currently focussing on 
-
-- .NET (C#)
-- React
-- ASP.NET Core
-- Azure
-- Python
-- MRI (Magnetic Resonance Imaging)
-- Medical Imaging
-- Legacy .NET Framework stuffs (Still they run the world and for migration activities)
-- Raspberry Pi
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshank3&layout=compact&theme=github_dark" alt="Top languages" />
+</p>
